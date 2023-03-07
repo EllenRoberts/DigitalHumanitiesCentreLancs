@@ -2,7 +2,7 @@
 Welcome to the DH Centre at Lancaster resources for workshops given by me (Ellen).
 
 
-# _Workshop: Using Methods from Corpus Linguistics on Historical Texts_
+# _Workshop: An Introduction to Corpus Linguistics for Humanities Researchers_
 
 ## 'Things' we need for the workshop:
 
